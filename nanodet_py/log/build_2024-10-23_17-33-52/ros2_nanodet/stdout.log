@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/ros2_nanodet/ros2_nanodet.egg-info
+writing ../../build/ros2_nanodet/ros2_nanodet.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_nanodet/ros2_nanodet.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_nanodet/ros2_nanodet.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_nanodet/ros2_nanodet.egg-info/requires.txt
+writing top-level names to ../../build/ros2_nanodet/ros2_nanodet.egg-info/top_level.txt
+writing manifest file '../../build/ros2_nanodet/ros2_nanodet.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros2_nanodet/ros2_nanodet.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_nanodet/ros2_nanodet.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build
+creating /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib
+creating /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib/nanodet_ros
+copying nanodet_ros/nanodet.py -> /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib/nanodet_ros
+copying nanodet_ros/__init__.py -> /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib/nanodet_ros
+running install
+running install_lib
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/nanodet_ros
+copying /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib/nanodet_ros/nanodet.py -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/nanodet_ros
+copying /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build/lib/nanodet_ros/__init__.py -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/nanodet_ros
+byte-compiling /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/nanodet_ros/nanodet.py to nanodet.cpython-310.pyc
+byte-compiling /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/nanodet_ros/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+copying resource/ros2_nanodet -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+copying package.xml -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ros2_nanodet
+running install_egg_info
+Copying ../../build/ros2_nanodet/ros2_nanodet.egg-info to /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/ros2_nanodet-0.0.0-py3.10.egg-info
+running install_scripts
+Installing nanodet_node script to /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/ros2_nanodet
+writing list of installed files to '/home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/install.log'
