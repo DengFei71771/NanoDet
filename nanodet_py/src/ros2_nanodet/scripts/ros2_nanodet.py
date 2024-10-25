@@ -9,8 +9,8 @@ import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import Image
 from std_msgs.msg import Header
-import nanodet_ros.nanodet
-from nanodet_ros.nanodet import my_nanodet
+import nanodet_py.src.ros2_nanodet.ros2_nanodet.nanodet
+from nanodet_py.src.ros2_nanodet.ros2_nanodet.nanodet import my_nanodet
 
 IMAGE_WIDTH = 1280
 IMAGE_HEIGHT = 720
@@ -19,7 +19,7 @@ class NanoDetNode(Node):
     def __init__(self):
         super().__init__('ros_nanodet')
 
-        model_dir = os.path.dirname(nanodet_ros.nanodet.__file__)
+        model_dir = os.path.dirname(nanodet_py.src.ros2_nanodet.scripts.nanodet.__file__)
         model_path = os.path.join(model_dir, 'model/nanodet.onnx')
         clsname_path = os.path.join(model_dir, 'model/coco.names')
 

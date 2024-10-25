@@ -1,0 +1,1 @@
+/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/setup.py

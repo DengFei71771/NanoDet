@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "nanodet_node = ros2_nanodet.nanodet:main"
+            "nanodet_node = ros2_nanodet.nanodet:main",
         ],
     },
 )

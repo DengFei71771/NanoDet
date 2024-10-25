@@ -1,0 +1,26 @@
+[0.272s] Invoking command in '/home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build --no-deps symlink_data
+[0.386s] running develop
+[0.386s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.386s]   warnings.warn(
+[0.464s] running egg_info
+[0.464s] creating ros2_nanodet.egg-info
+[0.464s] writing ros2_nanodet.egg-info/PKG-INFO
+[0.464s] writing dependency_links to ros2_nanodet.egg-info/dependency_links.txt
+[0.464s] writing entry points to ros2_nanodet.egg-info/entry_points.txt
+[0.464s] writing requirements to ros2_nanodet.egg-info/requires.txt
+[0.464s] writing top-level names to ros2_nanodet.egg-info/top_level.txt
+[0.464s] writing manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+[0.465s] reading manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+[0.465s] writing manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+[0.466s] running build_ext
+[0.467s] Creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/ros2-nanodet.egg-link (link to .)
+[0.467s] Installing nanodet_node script to /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/ros2_nanodet
+[0.467s] 
+[0.467s] Installed /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet
+[0.467s] running symlink_data
+[0.467s] creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index
+[0.467s] creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index
+[0.468s] creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+[0.468s] symbolically linking /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/resource/ros2_nanodet -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+[0.468s] symbolically linking /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/package.xml -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ros2_nanodet
+[0.483s] Invoked command in '/home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/build --no-deps symlink_data

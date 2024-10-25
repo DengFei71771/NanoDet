@@ -1,1 +1,1 @@
-nanodet_ros
+ros2_nanodet

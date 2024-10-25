@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ros2_nanodet.egg-info
+writing ros2_nanodet.egg-info/PKG-INFO
+writing dependency_links to ros2_nanodet.egg-info/dependency_links.txt
+writing entry points to ros2_nanodet.egg-info/entry_points.txt
+writing requirements to ros2_nanodet.egg-info/requires.txt
+writing top-level names to ros2_nanodet.egg-info/top_level.txt
+writing manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+reading manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+writing manifest file 'ros2_nanodet.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/python3.10/site-packages/ros2-nanodet.egg-link (link to .)
+Installing nanodet_node script to /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/lib/ros2_nanodet
+
+Installed /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet
+running symlink_data
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index
+creating /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+symbolically linking /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/resource/ros2_nanodet -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ament_index/resource_index/packages
+symbolically linking /home/df/nanodet_ROS2humble/nanodet_py/build/ros2_nanodet/package.xml -> /home/df/nanodet_ROS2humble/nanodet_py/install/ros2_nanodet/share/ros2_nanodet
