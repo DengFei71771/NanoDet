@@ -1,0 +1,23 @@
+[0.278s] Invoking command in '/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/ros2_nanodet build --build-base /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/build install --record /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/install.log --single-version-externally-managed install_data
+[0.382s] running egg_info
+[0.383s] writing build/ros2_nanodet/ros2_nanodet.egg-info/PKG-INFO
+[0.383s] writing dependency_links to build/ros2_nanodet/ros2_nanodet.egg-info/dependency_links.txt
+[0.383s] writing entry points to build/ros2_nanodet/ros2_nanodet.egg-info/entry_points.txt
+[0.383s] writing requirements to build/ros2_nanodet/ros2_nanodet.egg-info/requires.txt
+[0.383s] writing top-level names to build/ros2_nanodet/ros2_nanodet.egg-info/top_level.txt
+[0.384s] reading manifest file 'build/ros2_nanodet/ros2_nanodet.egg-info/SOURCES.txt'
+[0.385s] writing manifest file 'build/ros2_nanodet/ros2_nanodet.egg-info/SOURCES.txt'
+[0.385s] running build
+[0.385s] running build_py
+[0.385s] copying ros2_nanodet/nanodet.onnx -> /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/build/lib/ros2_nanodet
+[0.386s] running install
+[0.386s] running install_lib
+[0.387s] copying /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/build/lib/ros2_nanodet/nanodet.onnx -> /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/python3.10/site-packages/ros2_nanodet
+[0.388s] running install_data
+[0.388s] running install_egg_info
+[0.389s] removing '/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/python3.10/site-packages/ros2_nanodet-0.0.0-py3.10.egg-info' (and everything under it)
+[0.389s] Copying build/ros2_nanodet/ros2_nanodet.egg-info to /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/python3.10/site-packages/ros2_nanodet-0.0.0-py3.10.egg-info
+[0.390s] running install_scripts
+[0.400s] Installing nanodet_node script to /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/ros2_nanodet
+[0.400s] writing list of installed files to '/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/install.log'
+[0.412s] Invoked command in '/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/install/ros2_nanodet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/ros2_nanodet build --build-base /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/build install --record /home/df/nanodet_ROS2humble/nanodet_py/src/ros2_nanodet/build/ros2_nanodet/install.log --single-version-externally-managed install_data

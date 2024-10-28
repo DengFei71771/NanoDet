@@ -1,0 +1,3 @@
+[console_scripts]
+nanodet_node = ros2_nanodet.nanodet:main
+

@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # 实现将nanodet python版本转换为ROS humble
+import sys
+
 
 import os
 import time
@@ -11,6 +13,7 @@ from sensor_msgs.msg import Image
 from std_msgs.msg import Header
 import nanodet_py.src.ros2_nanodet.ros2_nanodet.nanodet
 from nanodet_py.src.ros2_nanodet.ros2_nanodet.nanodet import my_nanodet
+
 
 IMAGE_WIDTH = 1280
 IMAGE_HEIGHT = 720

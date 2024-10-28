@@ -11,6 +11,9 @@ setup(
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
     ],
+    package_data={
+        package_name: ['coco.names','nanodet.onnx'],  
+    },
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='df',
