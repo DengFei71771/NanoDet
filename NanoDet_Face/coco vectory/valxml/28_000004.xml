@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val2017</folder>
+	<filename>28_000004.jpg</filename>
+	<path>F:\Code\OpenCv_Python\Improve\NanoDet_Face\Images\val\val2017\28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>303</ymin>
+			<xmax>335</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo_2_1</folder>
+	<filename>46_000003.jpg</filename>
+	<path>F:\Code\OpenCv_Python\Improve\NanoDet_Face\Images\photo_2_1\46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>40</ymin>
+			<xmax>394</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

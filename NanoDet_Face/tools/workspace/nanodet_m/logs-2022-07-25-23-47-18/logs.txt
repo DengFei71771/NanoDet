@@ -1,0 +1,54 @@
+[NanoDet][07-25 23:47:18]INFO: Setting up data...
+[NanoDet][07-25 23:47:18]INFO: Creating model...
+[NanoDet][07-25 23:47:19]INFO: hyperparams: 
+[NanoDet][07-25 23:47:26]INFO: Train|Epoch1/50|Iter0(0)| lr:1.40e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:47:33]INFO: Train|Epoch2/50|Iter10(2)| lr:1.82e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:47:39]INFO: Train|Epoch3/50|Iter20(4)| lr:2.24e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:47:44]INFO: Train|Epoch4/50|Iter30(6)| lr:2.66e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:47:54]INFO: Val|Epoch5/50|Iter39(0)| lr:3.04e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:47:54]INFO: Saving model to workspace/nanodet_m\model_best\nanodet_model_best.pth
+[NanoDet][07-25 23:47:54]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:48:00]INFO: Train|Epoch6/50|Iter40(0)| lr:3.08e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:06]INFO: Train|Epoch7/50|Iter50(2)| lr:3.50e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:12]INFO: Train|Epoch8/50|Iter60(4)| lr:3.92e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:18]INFO: Train|Epoch9/50|Iter70(6)| lr:4.34e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:27]INFO: Val|Epoch10/50|Iter79(0)| lr:4.72e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:27]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:48:32]INFO: Train|Epoch11/50|Iter80(0)| lr:4.76e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:38]INFO: Train|Epoch12/50|Iter90(2)| lr:5.18e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:44]INFO: Train|Epoch13/50|Iter100(4)| lr:5.60e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:48:50]INFO: Train|Epoch14/50|Iter110(6)| lr:6.02e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:00]INFO: Val|Epoch15/50|Iter119(0)| lr:6.40e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:01]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:49:06]INFO: Train|Epoch16/50|Iter120(0)| lr:6.44e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:12]INFO: Train|Epoch17/50|Iter130(2)| lr:6.86e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:18]INFO: Train|Epoch18/50|Iter140(4)| lr:7.28e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:24]INFO: Train|Epoch19/50|Iter150(6)| lr:7.70e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:33]INFO: Val|Epoch20/50|Iter159(0)| lr:8.08e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:34]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:49:39]INFO: Train|Epoch21/50|Iter160(0)| lr:8.12e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:45]INFO: Train|Epoch22/50|Iter170(2)| lr:8.54e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:51]INFO: Train|Epoch23/50|Iter180(4)| lr:8.96e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:49:57]INFO: Train|Epoch24/50|Iter190(6)| lr:9.38e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:06]INFO: Val|Epoch25/50|Iter199(0)| lr:9.76e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:07]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:50:12]INFO: Train|Epoch26/50|Iter200(0)| lr:9.80e-02| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:18]INFO: Train|Epoch27/50|Iter210(2)| lr:1.02e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:24]INFO: Train|Epoch28/50|Iter220(4)| lr:1.06e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:31]INFO: Train|Epoch29/50|Iter230(6)| lr:1.11e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:40]INFO: Val|Epoch30/50|Iter239(0)| lr:1.14e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:40]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:50:47]INFO: Train|Epoch31/50|Iter240(0)| lr:1.15e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:53]INFO: Train|Epoch32/50|Iter250(2)| lr:1.19e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:50:59]INFO: Train|Epoch33/50|Iter260(4)| lr:1.23e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:05]INFO: Train|Epoch34/50|Iter270(6)| lr:1.27e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:15]INFO: Val|Epoch35/50|Iter279(0)| lr:1.31e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:15]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:51:21]INFO: Train|Epoch36/50|Iter280(0)| lr:1.32e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:27]INFO: Train|Epoch37/50|Iter290(2)| lr:1.36e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:33]INFO: Train|Epoch38/50|Iter300(4)| lr:1.40e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:39]INFO: Train|Epoch39/50|Iter310(6)| lr:1.40e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:49]INFO: Val|Epoch40/50|Iter319(0)| lr:1.40e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:51:49]INFO: Val_metrics: {'mAP': 0, 'AP_50': 0, 'AP_75': 0, 'AP_small': 0, 'AP_m': 0, 'AP_l': 0}
+[NanoDet][07-25 23:51:55]INFO: Train|Epoch41/50|Iter320(0)| lr:1.40e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 
+[NanoDet][07-25 23:52:01]INFO: Train|Epoch42/50|Iter330(2)| lr:1.40e-01| loss_qfl:0.0000| loss_bbox:0.0000| loss_dfl:0.0000| 

@@ -1,0 +1,8 @@
+[NanoDet][07-25 23:43:35]INFO: Setting up data...
+[NanoDet][07-25 23:43:35]INFO: Creating model...
+[NanoDet][07-25 23:43:35]INFO: hyperparams: 
+[NanoDet][07-25 23:43:40]INFO: Train|Epoch1/50|Iter0(0)| lr:1.40e-02| loss_qfl:0.2454| loss_bbox:1.4759| loss_dfl:0.5210| 
+[NanoDet][07-25 23:43:45]INFO: Train|Epoch2/50|Iter10(2)| lr:1.82e-02| loss_qfl:0.9680| loss_bbox:0.8473| loss_dfl:0.3941| 
+[NanoDet][07-25 23:43:49]INFO: Train|Epoch3/50|Iter20(4)| lr:2.24e-02| loss_qfl:1.1494| loss_bbox:1.0870| loss_dfl:0.4309| 
+[NanoDet][07-25 23:43:53]INFO: Train|Epoch4/50|Iter30(6)| lr:2.66e-02| loss_qfl:0.7370| loss_bbox:0.7823| loss_dfl:0.3821| 
+[NanoDet][07-25 23:44:00]INFO: Val|Epoch5/50|Iter39(0)| lr:3.04e-02| loss_qfl:0.8077| loss_bbox:0.6053| loss_dfl:0.2782| 
