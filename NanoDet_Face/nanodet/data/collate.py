@@ -16,7 +16,8 @@ import collections
 import re
 
 import torch
-from torch._six import string_classes
+import six
+string_classes = (str, bytes)
 
 np_str_obj_array_pattern = re.compile(r"[SaUO]")
 
